@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  padding: 0px;
+}
+
+.square {
+ height: 35px;
+ width: 35px;
+ border: 1px solid black ;
+ font-size: 1.2rem;
+ font-weight: bold;
+ cursor: pointer;
+}
+
+.board {
+  display: flex;
+  flex-wrap: wrap;
+  width: 105px;
+  height: 105px;
+}
+
+.status {
+  
+}
