@@ -25,5 +25,10 @@ body {
 }
 
 .status {
-  
+margin-bottom : 20px;
+}
+
+.game {
+  display : flex;
+
 }
